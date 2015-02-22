@@ -1,0 +1,17 @@
+{
+    "Site_url": "http:\/\/localhost:8080\/morfy-debug",
+    "Timezone": "Europe\/Brussels",
+    "Password": "demo",
+    "Key_1": "key_1",
+    "Key_2": "key_2",
+    "admin_email": "demo@gmail.com",
+    "language": "english",
+    "Debug": "true",
+    "Cms name": "Panel",
+    "Folder cms name": "admin",
+    "Ace_theme": "monokai",
+    "Ace_emmet": "true",
+    "Ace_tabsize": "2",
+    "Ace_fontSize": "12",
+    "Ace_autocompletion": "true"
+}

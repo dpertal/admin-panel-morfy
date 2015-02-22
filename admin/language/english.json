@@ -1,0 +1,27 @@
+{
+	"Login": "Login",
+	"Logout": "Logout",
+	"Hello Admin": "Hello Admin",
+	"You need provide a password": "You need provide a password",
+	"Are you sure" : "Are you sure",
+	"Cancel" : "Cancel",
+	"Update" : "Update",
+	"Your file has ben Update" : "Your file has ben Update",
+	"Your file has ben save":"Your file has ben save",
+	"Your file has ben Delete" : "Your file has ben Delete",
+	"The Folder is Empty":"The Folder is Empty",
+	"Save File":"Save File",
+	"An error ocurred when uploading.":"An error ocurred when uploading.",
+	"Please ensure you are uploading an image.":"Please ensure you are uploading an image.",
+	"File uploaded exceeds maximum upload size.":"File uploaded exceeds maximum upload size.",
+	"Unsupported filetype uploaded.":"Unsupported filetype uploaded.",
+	"File with that name already exists.":"File with that name already exists.",
+	"Error uploading file - check destination is writeable.":"Error uploading file - check destination is writeable.",
+	"Links of Images":"Links of Images",
+	"Thumbnail Image":"Thumbnail Image",
+	"Full Image":"Full Image",
+	"Links of Images":"Links of Images",
+	"File uploaded successfully":"File uploaded successfully",
+	"Powered by":"Powered by"
+
+}
