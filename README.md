@@ -13,7 +13,9 @@ Copy admin folder in Root folder
         - config.php
         - index.php
 
----
+
+
+
 Browse to admin / database / configuration.json and write your settings
 
     {
