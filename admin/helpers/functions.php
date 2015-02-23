@@ -553,7 +553,7 @@ Morfy::factory()->addAction('documentation', function () {
 Morfy::factory()->addAction('backups', function () {
 
     if(Panel::Request_Get('g') && Panel::Request_Get('createBackup')){
-        Panel::Create_zip(array(DATABASE,PHOTOS), BACKUP.DS.Panel::Request_Get('createBackup').'.zip');
+        Panel::Create_zip(array(ROOTBASE), BACKUP.DS.Panel::Request_Get('createBackup').'.zip');
          // redirect if true
         Panel::Notification_set('success',Panel::Lang('Your file has created'));
         Panel::Redirect(Panel::Root(Panel::Settings('configuration','Folder cms name').'?g=backups'));
