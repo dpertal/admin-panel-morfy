@@ -1,0 +1,26 @@
+{
+	"Login": "Σύνδεση",
+	"Logout": "Αποσύνδεση",
+	"Hello Admin": "Γεια σας Διαχειριστή",
+	"You need provide a password": "Χρειάζεται να δώσετε έναν κωδικό πρόσβασης",
+	"Are you sure": "Είστε σίγουρος",
+	"Cancel": "Άκυρο",
+	"Update": "Ενημέρωση",
+	"Your file has ben Update": "Το αρχείο σας έχει ενημερωθεί",
+	"Your file has ben save": "Το αρχείο σας έχει αποθηκευτεί",
+	"Your file has ben Delete": "Το αρχείο σας έχει διαγραφεί",
+	"The Folder is Empty": "Ο φάκελος είναι κενός",
+	"Save File": "Αποθήκευση αρχείου",
+	"An error ocurred when uploading.": "Παρουσιάστηκε σφάλμα κατά τη φόρτωση.",
+	"Please ensure you are uploading an image.": "Παρακαλώ βεβαιωθείτε ότι έχετε αποστέλλετε μια εικόνα.",
+	"File uploaded exceeds maximum upload size.": "Το αρχείο μεταφορτώθηκε ξεπερνά το μέγιστο μέγεθος αποστολής.",
+	"Unsupported filetype uploaded.": "Μη υποστηριζόμενος τύπος αρχείου",
+	"File with that name already exists.": "Το αρχείο με αυτό το όνομα υπάρχει ήδη.",
+	"Error uploading file - check destination is writeable.": "Σφάλμα μεταφόρτωση του αρχείου - να ελέγχει τον προορισμό είναι εγγράψιμο.",
+	"Thumbnail Image": "Μικρή Εικόνα",
+	"Full Image": "Πλήρης εικόνα",
+	"Links of Images": "Σύνδεσμοι Εικόνες",
+	"File uploaded successfully": "Το αρχείο μεταφορτώθηκε με επιτυχία",
+	"Powered by": "Powered by"
+
+}
